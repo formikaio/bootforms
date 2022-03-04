@@ -1,5 +1,5 @@
 {
-  "name": "enriquejlicona/bootforms",
+  "name": "galahad/bootforms",
   "description": "Form builder with Bootstrap-specific conveniences. Remembers old input, retrieves error messages and handles all your boilerplate Bootstrap markup automatically.",
   "keywords": ["laravel", "forms", "bootstrap", "bootforms", "bootform"],
   "authors": [
