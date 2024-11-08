@@ -31,6 +31,9 @@
   "minimum-stability": "stable",
   "extra": {
     "laravel": {
+      "branch-alias": {
+            "dev-master": "1.x-dev"
+        },
       "providers": [
         "Galahad\\BootForms\\BootFormsServiceProvider"
       ],
