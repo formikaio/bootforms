@@ -27,10 +27,10 @@
       "Galahad\\BootForms\\": "src/"
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "extra": {
     "branch-alias": {
-      "dev-master": "1.7-dev"
+      "dev-master": "1.x-dev"
     },
     "laravel": {
       "providers": [
