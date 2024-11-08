@@ -28,7 +28,7 @@
       "Galahad\\BootForms\\": "src/"
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "extra": {
     "laravel": {
       "branch-alias": {
