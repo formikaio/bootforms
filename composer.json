@@ -1,5 +1,5 @@
 {
-  "name": "galahad/bootforms",
+  "name": "fienta/bootforms",
   "description": "Form builder with Bootstrap-specific conveniences. Remembers old input, retrieves error messages and handles all your boilerplate Bootstrap markup automatically.",
   "keywords": ["laravel", "forms", "bootstrap", "bootforms", "bootform"],
   "authors": [
@@ -27,7 +27,7 @@
       "Galahad\\BootForms\\": "src/"
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "extra": {
     "branch-alias": {
       "dev-master": "1.x-dev"
